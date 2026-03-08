@@ -1,1 +1,2 @@
 Hello Git i am leaning git today
+This is for the purpose of pulling in my local devices
